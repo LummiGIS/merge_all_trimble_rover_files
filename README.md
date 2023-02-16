@@ -1,5 +1,5 @@
 # merge_all_trimble_rover_files
-Merge all rover shapefiles in a directory (and all sub-directories) into one single file....this script is intended to help GIS professionals find old Trimble GNSS data.
+Merge all rover point shapefiles in a directory (and all sub-directories) into one single file....this script is intended to help GIS professionals find old Trimble GNSS data.
 
 
 After changeing the user-defined parameters run this script in your ArcGIS Pro Python IDE or in Python interpretor in ArcGIS Pro.
