@@ -9,7 +9,6 @@ import os
 
 try:
     #########       USER DEFINED PARAMETERS     ####################
-    ##This is the path to the folder that stores the Garmin GPX files.  This path can be the actural Garmin connected via mini-USB
     workspace = r"E:\GISPublicGerry20210211\GerryG\GPS\Export"
     out_fc = r"C:\gTemp\all_gnss_pre2020.shp"
     ################################################################
